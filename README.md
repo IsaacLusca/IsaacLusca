@@ -6,6 +6,13 @@
   <a href="https://github.com/IsaacLusca">
     <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=IsaacLusca&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
     <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=IsaacLusca&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacLusca&theme=github_dark&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/IsaacLusca">
+    <img src="https://github-profile-trophy.vercel.app/?username=IsaacLusca&theme=github_dark&no-frame=true&margin-w=15&margin-h=15&column=6" />
   </a>
 </div>
 
