@@ -2,6 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=35&duration=3000&pause=500&center=true&vCenter=true&width=500&height=70&color=58A6FF&lines=Hello!+%F0%9F%91%8B;I'm+Isaac" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <a href="https://isaaclusca.github.io/Portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Acessar-2CBCE9?style=for-the-badge&labelColor=010026&logo=react&logoColor=FDCC49" alt="Portfólio" />
+  </a>
+  <a href="https://www.linkedin.com/in/isaaclusca/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-IsaacLusca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 <div align="center">
   <a href="https://github.com/IsaacLusca">
     <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=IsaacLusca&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
